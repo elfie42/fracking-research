@@ -1,5 +1,5 @@
 # fracking-research
- Home for data, code, and other information from my DA senior capstone project.
+ Home for data, code, and other information related to my DA senior capstone project.
 
 # Introduction
 ### author: Phoebe Martin
