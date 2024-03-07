@@ -2724,8 +2724,8 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 1912-24-9,ATRAZINE,RTECS,gastrointestinal liver,suspected
 1918-00-9,DICAMBA,EPA-TRI,developmental,suspected
 1918-00-9,DICAMBA,FRAZIER,reproductive,suspected
-1918-02-1,PICLORAM,"EPA-TRI, RTECS",gastrointestinal liver,suspected
-1918-02-1,PICLORAM,RTECS,endocrine,suspected
+2/1/1918,PICLORAM,"EPA-TRI, RTECS",gastrointestinal liver,suspected
+2/1/1918,PICLORAM,RTECS,endocrine,suspected
 1918-16-7,PROPACHLOR,EEC,skin sense,suspected
 1918-16-7,PROPACHLOR,"EEC, NAP",immunotoxicity,suspected
 1918-16-7,PROPACHLOR,EPA-TRI,developmental,suspected
@@ -2779,7 +2779,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 19774-82-4,AMIODARONE HYDROCHLORIDE,RTECS,skin sense,suspected
 1982-67-8,METHIONINE SULFOXIMINE,LU,skin sense,suspected
 1982-69-0,SODIUM DICAMBA,EPA-TRI,developmental,suspected
-1983-10-4,TRIBUTYLTIN FLUORIDE,BKH,endocrine,suspected
+10/4/1983,TRIBUTYLTIN FLUORIDE,BKH,endocrine,suspected
 19937-59-8,"Urea, N,N-dimethyl-N'-(3-chloro-4-methoxyphenyl)-",RTECS,cardiovascular blood,suspected
 19937-59-8,"Urea, N,N-dimethyl-N'-(3-chloro-4-methoxyphenyl)-",RTECS,endocrine,suspected
 2001-95-8,VALINOMYCIN,RTECS,neurotoxicity,suspected
@@ -2894,8 +2894,8 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 21829-25-4,Nifedipine,RTECS,skin sense,suspected
 2186-24-5,"1,2-EPOXI-3-(P-TOLYLOXI)-PROPAN",SNCI,immunotoxicity,suspected
 21908-53-2,MERCURIC OXIDE,P65-MC,developmental,recognized
-2191-10-8,"Octanoic acid, cadmium salt",RTECS,gastrointestinal liver,suspected
-2191-10-8,"Octanoic acid, cadmium salt",RTECS,neurotoxicity,suspected
+10/8/2191,"Octanoic acid, cadmium salt",RTECS,gastrointestinal liver,suspected
+10/8/2191,"Octanoic acid, cadmium salt",RTECS,neurotoxicity,suspected
 2212-67-1,MOLINATE,"DPR-CIP, EPA-TRI",neurotoxicity,suspected
 2212-67-1,MOLINATE,EPA-TRI,developmental,suspected
 2212-67-1,MOLINATE,EPA-TRI,reproductive,suspected
@@ -2923,9 +2923,9 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 2234-13-1,OCTACHLORONAPHTHALENE,HAZMAP,skin sense,suspected
 2235-25-8,ETHYLMERCURIC PHOSPHATE,P65-MC,developmental,recognized
 2235-25-8,ETHYLMERCURIC PHOSPHATE,RTECS,neurotoxicity,suspected
-2238-07-5,"BIS(2,3-EPOXYPROPYL)ETHER",HAZMAP,skin sense,suspected
-2238-07-5,"BIS(2,3-EPOXYPROPYL)ETHER","NAP, SNCI",immunotoxicity,suspected
-2238-07-5,"BIS(2,3-EPOXYPROPYL)ETHER",RTECS,neurotoxicity,suspected
+7/5/2238,"BIS(2,3-EPOXYPROPYL)ETHER",HAZMAP,skin sense,suspected
+7/5/2238,"BIS(2,3-EPOXYPROPYL)ETHER","NAP, SNCI",immunotoxicity,suspected
+7/5/2238,"BIS(2,3-EPOXYPROPYL)ETHER",RTECS,neurotoxicity,suspected
 22398-80-7,INDIUM PHOSPHIDE,P65,cancer,recognized
 224-42-0,"DIBENZ[A,J]ACRIDINE",P65,cancer,recognized
 2243-62-1,"1,5-NAPHTHALENEDIAMINE",CPDB,cancer,suspected
@@ -3003,34 +3003,34 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 24151-93-7,Piperophos,RTECS,neurotoxicity,suspected
 2420-98-6,CADMIUM 2-ETHYLHEXANOATE,P65-MC,cancer,recognized
 2422-79-9,12-METHYLBENZ(A)ANTHRACENE,RTECS,skin sense,suspected
-2425-06-1,CAPTAFOL,DAN,neurotoxicity,suspected
-2425-06-1,CAPTAFOL,"EEC, HAZMAP",immunotoxicity,suspected
-2425-06-1,CAPTAFOL,"EEC, HAZMAP",skin sense,suspected
-2425-06-1,CAPTAFOL,HAZMAP,respiratory,suspected
-2425-06-1,CAPTAFOL,P65,cancer,recognized
-2425-06-1,CAPTAFOL,RTECS,kidney,suspected
+6/1/2425,CAPTAFOL,DAN,neurotoxicity,suspected
+6/1/2425,CAPTAFOL,"EEC, HAZMAP",immunotoxicity,suspected
+6/1/2425,CAPTAFOL,"EEC, HAZMAP",skin sense,suspected
+6/1/2425,CAPTAFOL,HAZMAP,respiratory,suspected
+6/1/2425,CAPTAFOL,P65,cancer,recognized
+6/1/2425,CAPTAFOL,RTECS,kidney,suspected
 2425-79-8,BUTANEDIOLDIGLYCIDYL ETHER,EEC,skin sense,suspected
 2425-79-8,BUTANEDIOLDIGLYCIDYL ETHER,"EEC, SNCI",immunotoxicity,suspected
 2425-85-6,C.I. PIGMENT RED 3,CPDB,cancer,suspected
 2425-85-6,C.I. PIGMENT RED 3,RTECS,cardiovascular blood,suspected
 2425-85-6,C.I. PIGMENT RED 3,RTECS,gastrointestinal liver,suspected
 2425-85-6,C.I. PIGMENT RED 3,RTECS,kidney,suspected
-2426-08-6,"1-BUTOXY-2,3-EPOXYPROPANE","EEC, HAZMAP",skin sense,suspected
-2426-08-6,"1-BUTOXY-2,3-EPOXYPROPANE","EEC, HAZMAP, SNCI",immunotoxicity,suspected
-2426-08-6,"1-BUTOXY-2,3-EPOXYPROPANE",RTECS,neurotoxicity,suspected
-2426-08-6,"1-BUTOXY-2,3-EPOXYPROPANE",RTECS,respiratory,suspected
+8/6/2426,"1-BUTOXY-2,3-EPOXYPROPANE","EEC, HAZMAP",skin sense,suspected
+8/6/2426,"1-BUTOXY-2,3-EPOXYPROPANE","EEC, HAZMAP, SNCI",immunotoxicity,suspected
+8/6/2426,"1-BUTOXY-2,3-EPOXYPROPANE",RTECS,neurotoxicity,suspected
+8/6/2426,"1-BUTOXY-2,3-EPOXYPROPANE",RTECS,respiratory,suspected
 2429-74-5,AIREDALE BLUE D,P65,cancer,recognized
 2437-79-8,"2,2',4,4'-TETRACHLOROBIPHENYL (PCB-47)",BKH,endocrine,suspected
 2437-79-8,"2,2',4,4'-TETRACHLOROBIPHENYL (PCB-47)",P65-MC,cancer,recognized
 2437-79-8,"2,2',4,4'-TETRACHLOROBIPHENYL (PCB-47)",P65-MC,developmental,recognized
 24382-04-5,"MALONALDEHYDE, SODIUM SALT",CPDB,cancer,suspected
 24382-04-5,"MALONALDEHYDE, SODIUM SALT",RTECS,kidney,suspected
-2439-01-2,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",EEC,immunotoxicity,suspected
-2439-01-2,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",EEC,skin sense,suspected
-2439-01-2,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",EPA-TRI,gastrointestinal liver,suspected
-2439-01-2,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",P65,cancer,recognized
-2439-01-2,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",P65,developmental,recognized
-2439-10-3,DODINE,RTECS,gastrointestinal liver,suspected
+1/2/2439,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",EEC,immunotoxicity,suspected
+1/2/2439,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",EEC,skin sense,suspected
+1/2/2439,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",EPA-TRI,gastrointestinal liver,suspected
+1/2/2439,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",P65,cancer,recognized
+1/2/2439,"CHINOMETHIONAT (6-METHYL-1,3-DITHIOLO[4,5-B]QUINOX",P65,developmental,recognized
+10/3/2439,DODINE,RTECS,gastrointestinal liver,suspected
 24390-14-5,DOXYCYCLINE HYCLATE (INTERNAL USE),P65,developmental,recognized
 24470-76-6,BIS(ISOBUTYL) MERCURY,P65-MC,developmental,recognized
 2451-62-9,"1,3,5-TRIAZINE-2,4,6(1H,3H,5H)-TRIONE, 1,3,5-TRIS(OXIRANYLMETHYL)- (9CI)",HAZMAP,immunotoxicity,suspected
@@ -3045,7 +3045,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 24613-89-6,CHROMIUM (III) CHROMATE,P65-MC,cancer,recognized
 2465-27-2,AURAMINE-O,CPDB,cancer,suspected
 2465-27-2,AURAMINE-O,RTECS,gastrointestinal liver,suspected
-2467-02-9,Bisphenol F,"JNIHS, WWF",endocrine,suspected
+2/9/2467,Bisphenol F,"JNIHS, WWF",endocrine,suspected
 2475-45-8,DISPERSE BLUE 1,P65,cancer,recognized
 2475-45-8,DISPERSE BLUE 1,RTECS,kidney,suspected
 2499-58-3,"2-Propenoic acid, heptyl ester",RTECS,neurotoxicity,suspected
@@ -3084,9 +3084,9 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 25167-83-3,TETRACHLOROPHENOLS,OEHHA-CREL,gastrointestinal liver,suspected
 25168-26-7,"2,4-D, ISOOCTYL ESTER",JANK,developmental,suspected
 2524-03-0,DIMETHYL CHLOROTHIOPHOSPHATE,EPA-TRI,developmental,suspected
-2524-04-1,CHLORURE DE DIETHYLTHIOPHOSPHORYLE,RTECS,cardiovascular blood,suspected
-2524-04-1,CHLORURE DE DIETHYLTHIOPHOSPHORYLE,RTECS,gastrointestinal liver,suspected
-2524-04-1,CHLORURE DE DIETHYLTHIOPHOSPHORYLE,RTECS,skin sense,suspected
+4/1/2524,CHLORURE DE DIETHYLTHIOPHOSPHORYLE,RTECS,cardiovascular blood,suspected
+4/1/2524,CHLORURE DE DIETHYLTHIOPHOSPHORYLE,RTECS,gastrointestinal liver,suspected
+4/1/2524,CHLORURE DE DIETHYLTHIOPHOSPHORYLE,RTECS,skin sense,suspected
 25265-76-3,PHENYLENEDIAMINE,EEC,immunotoxicity,suspected
 25265-76-3,PHENYLENEDIAMINE,EEC,skin sense,suspected
 25311-71-1,ISOFENPHOS,EPA-TRI,neurotoxicity,suspected
@@ -3106,7 +3106,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 25323-68-6,TRI-PCB,P65-MC,developmental,recognized
 25323-89-1,TRICHLOROETHANE (ALL ISOMERS),P65-MC,cancer,suspected
 25340-17-4,"BENZENE, DIETHYL- (8CI)(9CI)",RTECS,neurotoxicity,suspected
-2536-05-2,"DIFENYLMETAN-2,2'-DIISOCYANAT",SNCI,immunotoxicity,suspected
+5/2/2536,"DIFENYLMETAN-2,2'-DIISOCYANAT",SNCI,immunotoxicity,suspected
 25376-45-8,DIAMINOTOLUENE (MIXED ISOMERS),JANK,developmental,suspected
 25376-45-8,DIAMINOTOLUENE (MIXED ISOMERS),P65,cancer,recognized
 2540-82-1,FORMOTHION,RTECS,gastrointestinal liver,suspected
@@ -3183,7 +3183,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 26087-47-8,Iprobenfos,RTECS,cardiovascular blood,suspected
 26087-47-8,Iprobenfos,RTECS,neurotoxicity,suspected
 26148-68-5,"2-AMINO-9H-PYRIDO (2,3-B) INDOLE (A-ALPHA-C)",P65,cancer,recognized
-26172-55-4,5-KLOR-2-METYL-4-ISOTIAZOLIN-3-ON OCH 2-METYL-4-ISOTIAZOLIN-3-ON (I FÖRHÅLLANDE 3:1) >15PPM,"NAP, SNCI",immunotoxicity,suspected
+26172-55-4,5-KLOR-2-METYL-4-ISOTIAZOLIN-3-ON OCH 2-METYL-4-ISOTIAZOLIN-3-ON (I F RH LLANDE 3:1) >15PPM,"NAP, SNCI",immunotoxicity,suspected
 26239-64-5,"Stannane, tributyl[[[1,2,3,4,4a,4b,5,6,1",BKH,endocrine,suspected
 26266-68-2,2-ETHYLHEXENAL,RTECS,neurotoxicity,suspected
 2634-33-5,"1,2-BENZISOTHIAZOLIN-3-ONE",HAZMAP,respiratory,suspected
@@ -3354,7 +3354,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 2971-38-2,"2,4-D CHLOROCROTYL ESTER",EPA-TRI,neurotoxicity,suspected
 2971-90-6,CLOPIDOL,HAZMAP,immunotoxicity,suspected
 2971-90-6,CLOPIDOL,HAZMAP,skin sense,suspected
-2973-10-6,DIISOPROPYL SULFATE,P65,cancer,recognized
+10/6/2973,DIISOPROPYL SULFATE,P65,cancer,recognized
 2974-90-5,"3,4'-Dichlorobiphenyl",P65-MC,cancer,recognized
 2974-90-5,"3,4'-Dichlorobiphenyl",P65-MC,developmental,recognized
 2974-92-7,"3,4-DICHLOROBIPHENYL (PCB-12)",P65-MC,cancer,recognized
@@ -3467,7 +3467,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 30618-84-9,"ACETIC ACID, MERCAPTO-, MONOESTER WITH 1,2,3-PROPANETRIOL",HAZMAP,skin sense,suspected
 3066-71-5,CYCLOHEXYLACRYLAT,NAP,immunotoxicity,suspected
 3068-88-0,BETA-BUTYROLACTONE,P65,cancer,recognized
-3081-01-4,"1,4-BENZENEDIAMINE, N-(1,4-DIMETHYLPENTYL)-N'-PHENYL- (9CI)",RTECS,neurotoxicity,suspected
+1/4/3081,"1,4-BENZENEDIAMINE, N-(1,4-DIMETHYLPENTYL)-N'-PHENYL- (9CI)",RTECS,neurotoxicity,suspected
 309-00-2,ALDRIN,"ATSDR, EPA-SARA, JANK",developmental,suspected
 309-00-2,ALDRIN,"ATSDR, RTECS",gastrointestinal liver,suspected
 309-00-2,ALDRIN,"DAN, EPA-SARA, RTECS",neurotoxicity,suspected
@@ -3630,11 +3630,11 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 3383-96-8,TEMEPHOS,"EPA-TRI, MASL",neurotoxicity,suspected
 3383-96-8,TEMEPHOS,RTECS,cardiovascular blood,suspected
 3383-96-8,TEMEPHOS,RTECS,gastrointestinal liver,suspected
-3385-03-3,FLUNISOLIDE,P65,developmental,recognized
-3385-03-3,FLUNISOLIDE,P65,reproductive,recognized
-3385-03-3,FLUNISOLIDE,RTECS,cardiovascular blood,suspected
-3385-03-3,FLUNISOLIDE,RTECS,neurotoxicity,suspected
-3385-03-3,FLUNISOLIDE,RTECS,skin sense,suspected
+3/3/3385,FLUNISOLIDE,P65,developmental,recognized
+3/3/3385,FLUNISOLIDE,P65,reproductive,recognized
+3/3/3385,FLUNISOLIDE,RTECS,cardiovascular blood,suspected
+3/3/3385,FLUNISOLIDE,RTECS,neurotoxicity,suspected
+3/3/3385,FLUNISOLIDE,RTECS,skin sense,suspected
 339-43-5,CARBUTAMIDE,MALA,cardiovascular blood,suspected
 33979-03-2,"2,2',4,4',6,6'-HEXACHLOROBIPHENYL (PCB-155)",P65-MC,cancer,recognized
 33979-03-2,"2,2',4,4',6,6'-HEXACHLOROBIPHENYL (PCB-155)",P65-MC,developmental,recognized
@@ -3683,13 +3683,13 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 35400-43-2,SULPROFOS,"DAN, DPR-CIP, EPA-TRI",neurotoxicity,suspected
 35400-43-2,SULPROFOS,EPA-TRI,developmental,suspected
 35400-43-2,SULPROFOS,RTECS,cardiovascular blood,suspected
-3546-10-9,PHENESTERIN,P65,cancer,recognized
+10/9/3546,PHENESTERIN,P65,cancer,recognized
 35554-44-0,IMAZALIL,"EPA-TRI, JANK",developmental,suspected
 35554-44-0,IMAZALIL,OPP-CAN,cancer,suspected
 35554-44-0,IMAZALIL,RTECS,neurotoxicity,suspected
 3563-45-9,"Tetrachloro DDT = 1,1,1,2-Tetrachloro-2,2-bis(4-chlorophenyl)ethane",BKH,endocrine,suspected
-3564-09-8,PONCEAU 3R,P65,cancer,recognized
-3564-09-8,PONCEAU 3R,RTECS,gastrointestinal liver,suspected
+9/8/3564,PONCEAU 3R,P65,cancer,recognized
+9/8/3564,PONCEAU 3R,RTECS,gastrointestinal liver,suspected
 35691-65-7,"1-BROMO-1-(BROMOMETHYL)-1,3-PROPANEDICARBONITRILE",HAZMAP,immunotoxicity,suspected
 35691-65-7,"1-BROMO-1-(BROMOMETHYL)-1,3-PROPANEDICARBONITRILE",HAZMAP,skin sense,suspected
 35693-92-6,"2,4,6-TRICHLOROBIPHENYL (PCB-30)",P65-MC,cancer,recognized
@@ -3799,8 +3799,8 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 3810-74-0,STREPTOMYCIN SULFATE,P65,developmental,recognized
 3810-74-0,STREPTOMYCIN SULFATE,RTECS,kidney,suspected
 3810-74-0,STREPTOMYCIN SULFATE,RTECS,neurotoxicity,suspected
-3817-11-6,N-NITROSO-N-BUTYL-N-(4-HYDROXYBUTYL)AMINE,NTP-C,cancer,suspected
-3817-11-6,N-NITROSO-N-BUTYL-N-(4-HYDROXYBUTYL)AMINE,RTECS,kidney,suspected
+11/6/3817,N-NITROSO-N-BUTYL-N-(4-HYDROXYBUTYL)AMINE,NTP-C,cancer,suspected
+11/6/3817,N-NITROSO-N-BUTYL-N-(4-HYDROXYBUTYL)AMINE,RTECS,kidney,suspected
 38194-50-2,Sulindac,P65,developmental,recognized
 38194-50-2,Sulindac,P65,reproductive,recognized
 38194-50-2,Sulindac,RTECS,cardiovascular blood,suspected
@@ -4005,8 +4005,8 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 42397-65-9,"1,8-DINITROPYRENE",P65,cancer,recognized
 42615-29-2,LAS,RTECS,gastrointestinal liver,suspected
 42615-29-2,LAS,RTECS,kidney,suspected
-42740-50-1,"2,2¿,3,3¿,4,4¿,5,6¿-Octachlorobiphenyl (PCB196)",P65-MC,cancer,recognized
-42740-50-1,"2,2¿,3,3¿,4,4¿,5,6¿-Octachlorobiphenyl (PCB196)",P65-MC,developmental,recognized
+42740-50-1,"2,2 ,3,3 ,4,4 ,5,6 -Octachlorobiphenyl (PCB196)",P65-MC,cancer,recognized
+42740-50-1,"2,2 ,3,3 ,4,4 ,5,6 -Octachlorobiphenyl (PCB196)",P65-MC,developmental,recognized
 42874-03-3,OXYFLUORFEN,EPA-TRI,gastrointestinal liver,suspected
 42874-03-3,OXYFLUORFEN,OPP-CAN,cancer,suspected
 4291-63-8,CLADRIBINE,P65,developmental,recognized
@@ -4022,9 +4022,9 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 434-07-1,OXYMETHOLONE,P65,cancer,recognized
 434-07-1,OXYMETHOLONE,P65,developmental,recognized
 434-07-1,OXYMETHOLONE,RTECS,gastrointestinal liver,suspected
-4342-03-4,DACARBAZINE,P65,cancer,recognized
-4342-03-4,DACARBAZINE,P65,developmental,recognized
-4342-03-4,DACARBAZINE,RTECS,neurotoxicity,suspected
+3/4/4342,DACARBAZINE,P65,cancer,recognized
+3/4/4342,DACARBAZINE,P65,developmental,recognized
+3/4/4342,DACARBAZINE,RTECS,neurotoxicity,suspected
 4342-30-7,"Phenol, 2-[[(tributylstannyl)oxy]carbony",BKH,endocrine,suspected
 4342-36-3,TRIBUTYLTIN BENZOATE,BKH,endocrine,suspected
 435-97-2,PHENPROCOUMON,P65,developmental,recognized
@@ -4045,8 +4045,8 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 443-48-1,METRONIDAZOLE,RTECS,gastrointestinal liver,suspected
 443-48-1,METRONIDAZOLE,RTECS,respiratory,suspected
 443-48-1,METRONIDAZOLE,RTECS,skin sense,suspected
-4454-05-1,"2,3-DIHYDRO-2-METHOXY(4H)PYRAN",RTECS,respiratory,suspected
-4454-05-1,"2,3-DIHYDRO-2-METHOXY(4H)PYRAN",RTECS,skin sense,suspected
+5/1/4454,"2,3-DIHYDRO-2-METHOXY(4H)PYRAN",RTECS,respiratory,suspected
+5/1/4454,"2,3-DIHYDRO-2-METHOXY(4H)PYRAN",RTECS,skin sense,suspected
 446-86-6,AZATHIOPRINE,HAZMAP,immunotoxicity,suspected
 446-86-6,AZATHIOPRINE,HAZMAP,skin sense,suspected
 446-86-6,AZATHIOPRINE,P65,cancer,recognized
@@ -4075,8 +4075,8 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 470-90-6,CHLORFENVINFOS,ATSDR,neurotoxicity,suspected
 470-90-6,CHLORFENVINFOS,RTECS,cardiovascular blood,suspected
 470-90-6,CHLORFENVINFOS,RTECS,gastrointestinal liver,suspected
-4719-04-4,"1,3,5-TRIAZINE-1,3,5(2H,4H,6H)-TRIETHANOL (9CI)",HAZMAP,skin sense,suspected
-4719-04-4,"1,3,5-TRIAZINE-1,3,5(2H,4H,6H)-TRIETHANOL (9CI)","HAZMAP, NAP",immunotoxicity,suspected
+4/4/4719,"1,3,5-TRIAZINE-1,3,5(2H,4H,6H)-TRIETHANOL (9CI)",HAZMAP,skin sense,suspected
+4/4/4719,"1,3,5-TRIAZINE-1,3,5(2H,4H,6H)-TRIETHANOL (9CI)","HAZMAP, NAP",immunotoxicity,suspected
 474-25-9,CHENODIOL,P65,developmental,recognized
 474-25-9,CHENODIOL,RTECS,gastrointestinal liver,suspected
 474-25-9,CHENODIOL,RTECS,neurotoxicity,suspected
@@ -4343,7 +4343,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 51338-27-3,DICLOFOP METHYL,OPP-CAN,cancer,suspected
 51338-27-3,DICLOFOP METHYL,P65,developmental,recognized
 514-10-3,ABIETIC ACID,KLAA,skin sense,suspected
-5160-02-1,D & C RED NO. 9,P65,cancer,recognized
+2/1/5160,D & C RED NO. 9,P65,cancer,recognized
 51630-58-1,FENVALERATE,"EPA-SDWA, JNIHS, WWF",endocrine,suspected
 51630-58-1,FENVALERATE,EPA-TRI,gastrointestinal liver,suspected
 51630-58-1,FENVALERATE,"EPA-TRI, RTECS",cardiovascular blood,suspected
@@ -4743,8 +4743,8 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 55290-64-7,DIMETHIPIN,"IRIS, OPP-CAN",cancer,suspected
 55312-69-1,"2,2',3,4,5-Pentachlorobiphenyl",P65-MC,cancer,recognized
 55312-69-1,"2,2',3,4,5-Pentachlorobiphenyl",P65-MC,developmental,recognized
-5534-09-8,BECLOMETHASONE DIPROPIONATE,P65,developmental,recognized
-5534-09-8,BECLOMETHASONE DIPROPIONATE,RTECS,cardiovascular blood,suspected
+9/8/5534,BECLOMETHASONE DIPROPIONATE,P65,developmental,recognized
+9/8/5534,BECLOMETHASONE DIPROPIONATE,RTECS,cardiovascular blood,suspected
 554-00-7,"DICHLOROANILINE, 2,4-",RTECS,neurotoxicity,suspected
 554-00-7,"DICHLOROANILINE, 2,4-",RTECS,respiratory,suspected
 554-13-2,LITHIUM CARBONATE,P65,developmental,recognized
@@ -5285,7 +5285,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 61-82-5,AMITROLE,JANK,developmental,suspected
 61-82-5,AMITROLE,P65,cancer,recognized
 610-39-9,"3,4-DINITROTOLUENE",P65-MC,reproductive,recognized
-6108-10-7,EPSILON-LINDANE,P65-MC,cancer,recognized
+10/7/6108,EPSILON-LINDANE,P65-MC,cancer,recognized
 6109-97-3,3-AMINO-9-ETHYLCARBAZOLE HYDROCHLORIDE,P65,cancer,recognized
 6109-97-3,3-AMINO-9-ETHYLCARBAZOLE HYDROCHLORIDE,RTECS,gastrointestinal liver,suspected
 6112-76-1,MERCAPTOPURINE,P65,developmental,recognized
@@ -5453,9 +5453,9 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 6317-18-6,METHYLENEBISTHIOCYANAT,OPP-CAN,cancer,suspected
 6317-18-6,METHYLENEBISTHIOCYANAT,RTECS,gastrointestinal liver,suspected
 632-99-5,Magenta (containing CI Basic Red 9),IARC,cancer,suspected
-6334-11-8,"2,4,6-TRIMETHYLANILINE.HCL",CPDB,cancer,suspected
-6334-11-8,"2,4,6-TRIMETHYLANILINE.HCL",RTECS,cardiovascular blood,suspected
-6334-11-8,"2,4,6-TRIMETHYLANILINE.HCL",RTECS,gastrointestinal liver,suspected
+11/8/6334,"2,4,6-TRIMETHYLANILINE.HCL",CPDB,cancer,suspected
+11/8/6334,"2,4,6-TRIMETHYLANILINE.HCL",RTECS,cardiovascular blood,suspected
+11/8/6334,"2,4,6-TRIMETHYLANILINE.HCL",RTECS,gastrointestinal liver,suspected
 634-93-5,"1-AMINO-2,4,6-TRICHLOROBENZENE",RTECS,cardiovascular blood,suspected
 634-93-5,"1-AMINO-2,4,6-TRICHLOROBENZENE",RTECS,neurotoxicity,suspected
 63449-41-2,"N-ALKYL (5% C5-18, 61% C12, 23% C14, 11% C16) DIMETHYL BENZYL AMMONIUM CHLORIDE",RTECS,cardiovascular blood,suspected
@@ -6082,7 +6082,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7439-97-6(Aryl),ARYL MERCURY COMPOUNDS,P65-MC,developmental,recognized
 7439-98-7,MOLYBDENUM,DAN,neurotoxicity,suspected
 7439-98-7,MOLYBDENUM,FRAZIER,reproductive,suspected
-7440-01-9,NEON,HAZMAP,respiratory,suspected
+1/9/7440,NEON,HAZMAP,respiratory,suspected
 7440-02-0,NICKEL,"ATSDR, EPA-HEN, HAZMAP, KLAA, LU, NEME, OEHHA-AREL, OEHHA-CREL, RTECS",respiratory,suspected
 7440-02-0,NICKEL,"EEC, EPA-HEN, HARV, HAZMAP, KLAA, LADO, TIMB",skin sense,suspected
 7440-02-0,NICKEL,"EEC, HAZMAP, OEHHA-AREL, SNCI",immunotoxicity,suspected
@@ -6097,18 +6097,18 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7440-02-0(Sol),SOLUBLE NICKEL COMPOUNDS,P65-MC,cancer,recognized
 7440-02-0(Sol),SOLUBLE NICKEL COMPOUNDS,P65-MC,developmental,suspected
 7440-03-1(m),NB-93M,P65-MC,cancer,recognized
-7440-04-2,METALLIC OSMIUM,NEME,respiratory,suspected
-7440-05-3,PALLADIUM,HAZMAP,immunotoxicity,suspected
-7440-05-3,PALLADIUM,HAZMAP,skin sense,suspected
-7440-06-4,PLATINUM METAL,"HARV, HAZMAP, LADO",skin sense,suspected
-7440-06-4,PLATINUM METAL,HAZMAP,immunotoxicity,suspected
-7440-06-4,PLATINUM METAL,"HAZMAP, NEME",respiratory,suspected
-7440-06-4,PLATINUM METAL,KLAA,neurotoxicity,suspected
-7440-07-5,PLUTONIUM,HAZMAP,cancer,suspected
-7440-07-5,PLUTONIUM,HAZMAP,cardiovascular blood,suspected
-7440-07-5,PLUTONIUM,HAZMAP,reproductive,suspected
-7440-07-5,PLUTONIUM,HAZMAP,respiratory,suspected
-7440-07-5,PLUTONIUM,HAZMAP,skin sense,suspected
+4/2/7440,METALLIC OSMIUM,NEME,respiratory,suspected
+5/3/7440,PALLADIUM,HAZMAP,immunotoxicity,suspected
+5/3/7440,PALLADIUM,HAZMAP,skin sense,suspected
+6/4/7440,PLATINUM METAL,"HARV, HAZMAP, LADO",skin sense,suspected
+6/4/7440,PLATINUM METAL,HAZMAP,immunotoxicity,suspected
+6/4/7440,PLATINUM METAL,"HAZMAP, NEME",respiratory,suspected
+6/4/7440,PLATINUM METAL,KLAA,neurotoxicity,suspected
+7/5/7440,PLUTONIUM,HAZMAP,cancer,suspected
+7/5/7440,PLUTONIUM,HAZMAP,cardiovascular blood,suspected
+7/5/7440,PLUTONIUM,HAZMAP,reproductive,suspected
+7/5/7440,PLUTONIUM,HAZMAP,respiratory,suspected
+7/5/7440,PLUTONIUM,HAZMAP,skin sense,suspected
 7440-16-6(m),RH-103M,P65-MC,cancer,recognized
 7440-22-4,SILVER,HAZMAP,cardiovascular blood,suspected
 7440-22-4,SILVER,OEHHA-CREL,skin sense,suspected
@@ -6235,16 +6235,16 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7440-74-6,INDIUM,FRAZIER,reproductive,suspected
 7440-74-6,INDIUM,KLAA,cardiovascular blood,suspected
 7440-74-6,INDIUM,KLAA,kidney,suspected
-7446-08-4,SELENIUM OXIDE,OEHHA-CREL,cardiovascular blood,suspected
-7446-08-4,SELENIUM OXIDE,OEHHA-CREL,gastrointestinal liver,suspected
-7446-08-4,SELENIUM OXIDE,"OEHHA-CREL, RTECS",neurotoxicity,suspected
-7446-09-5,SULFUR DIOXIDE,"ATSDR, CAA-AQC, HAZMAP, KLAA, LADO, LU, OEHHA-AREL, RTECS",respiratory,suspected
-7446-09-5,SULFUR DIOXIDE,JANK,developmental,suspected
-7446-09-5,SULFUR DIOXIDE,RTECS,cardiovascular blood,suspected
-7446-09-5,SULFUR DIOXIDE,RTECS,gastrointestinal liver,suspected
-7446-09-5,SULFUR DIOXIDE,RTECS,neurotoxicity,suspected
-7446-11-9,SULFUR TRIOXIDE,RTECS,respiratory,suspected
-7446-11-9,SULFUR TRIOXIDE,RTECS,skin sense,suspected
+8/4/7446,SELENIUM OXIDE,OEHHA-CREL,cardiovascular blood,suspected
+8/4/7446,SELENIUM OXIDE,OEHHA-CREL,gastrointestinal liver,suspected
+8/4/7446,SELENIUM OXIDE,"OEHHA-CREL, RTECS",neurotoxicity,suspected
+9/5/7446,SULFUR DIOXIDE,"ATSDR, CAA-AQC, HAZMAP, KLAA, LADO, LU, OEHHA-AREL, RTECS",respiratory,suspected
+9/5/7446,SULFUR DIOXIDE,JANK,developmental,suspected
+9/5/7446,SULFUR DIOXIDE,RTECS,cardiovascular blood,suspected
+9/5/7446,SULFUR DIOXIDE,RTECS,gastrointestinal liver,suspected
+9/5/7446,SULFUR DIOXIDE,RTECS,neurotoxicity,suspected
+11/9/7446,SULFUR TRIOXIDE,RTECS,respiratory,suspected
+11/9/7446,SULFUR TRIOXIDE,RTECS,skin sense,suspected
 7446-14-2,LEAD SULFATE,P65-MC,cancer,recognized
 7446-14-2,LEAD SULFATE,P65-MC,developmental,recognized
 7446-14-2,LEAD SULFATE,P65-MC,reproductive,recognized
@@ -6325,7 +6325,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7487-94-7,MERCURY CHLORIDE (2),RTECS,gastrointestinal liver,suspected
 7487-94-7,MERCURY CHLORIDE (2),RTECS,respiratory,suspected
 74920-78-8,N-ethyl-N-formylhydrazine,P65-CAND,cancer,suspected
-7496-02-8,6-NITROCHRYSENE,P65,cancer,recognized
+2/8/7496,6-NITROCHRYSENE,P65,cancer,recognized
 75-00-3,CHLOROETHANE,"ATSDR, OEHHA-CREL",developmental,suspected
 75-00-3,CHLOROETHANE,"DAN, EPA-HEN, HAZMAP, RTECS",neurotoxicity,suspected
 75-00-3,CHLOROETHANE,EPA-HEN,musculoskeletal,suspected
@@ -6604,11 +6604,11 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7632-00-0,SODIUM NITRITE,RTECS,gastrointestinal liver,suspected
 7632-00-0,SODIUM NITRITE,RTECS,neurotoxicity,suspected
 7632-00-0,SODIUM NITRITE,RTECS,respiratory,suspected
-7637-07-2,BORON TRIFLUORIDE,EPA-TRI,kidney,suspected
-7637-07-2,BORON TRIFLUORIDE,"EPA-TRI, HAZMAP",skin sense,suspected
-7637-07-2,BORON TRIFLUORIDE,"EPA-TRI, HAZMAP, RTECS",respiratory,suspected
-7637-07-2,BORON TRIFLUORIDE,RTECS,cardiovascular blood,suspected
-7637-07-2,BORON TRIFLUORIDE,RTECS,neurotoxicity,suspected
+7/2/7637,BORON TRIFLUORIDE,EPA-TRI,kidney,suspected
+7/2/7637,BORON TRIFLUORIDE,"EPA-TRI, HAZMAP",skin sense,suspected
+7/2/7637,BORON TRIFLUORIDE,"EPA-TRI, HAZMAP, RTECS",respiratory,suspected
+7/2/7637,BORON TRIFLUORIDE,RTECS,cardiovascular blood,suspected
+7/2/7637,BORON TRIFLUORIDE,RTECS,neurotoxicity,suspected
 764-41-0,"1,4-DICHLORO-2-BUTENE",P65,cancer,recognized
 764-41-0,"1,4-DICHLORO-2-BUTENE",RTECS,neurotoxicity,suspected
 764-41-0,"1,4-DICHLORO-2-BUTENE",RTECS,respiratory,suspected
@@ -6718,13 +6718,13 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 77182-82-2,2-AMINO-4-(HYDROXYMETHYLPHOSPHINYL)BUTANOIC ACID MONOAMMONIUM SALT,RTECS,cardiovascular blood,suspected
 77182-82-2,2-AMINO-4-(HYDROXYMETHYLPHOSPHINYL)BUTANOIC ACID MONOAMMONIUM SALT,RTECS,neurotoxicity,suspected
 77182-82-2,2-AMINO-4-(HYDROXYMETHYLPHOSPHINYL)BUTANOIC ACID MONOAMMONIUM SALT,RTECS,respiratory,suspected
-7719-09-7,THIONYL CHLORIDE,HAZMAP,respiratory,suspected
-7719-09-7,THIONYL CHLORIDE,HAZMAP,skin sense,suspected
-7719-12-2,PHOSPHORUS TRICHLORIDE,HAZMAP,skin sense,suspected
-7719-12-2,PHOSPHORUS TRICHLORIDE,"HAZMAP, RTECS",respiratory,suspected
-7719-12-2,PHOSPHORUS TRICHLORIDE,RTECS,cardiovascular blood,suspected
-7719-12-2,PHOSPHORUS TRICHLORIDE,RTECS,gastrointestinal liver,suspected
-7719-12-2,PHOSPHORUS TRICHLORIDE,RTECS,neurotoxicity,suspected
+9/7/7719,THIONYL CHLORIDE,HAZMAP,respiratory,suspected
+9/7/7719,THIONYL CHLORIDE,HAZMAP,skin sense,suspected
+12/2/7719,PHOSPHORUS TRICHLORIDE,HAZMAP,skin sense,suspected
+12/2/7719,PHOSPHORUS TRICHLORIDE,"HAZMAP, RTECS",respiratory,suspected
+12/2/7719,PHOSPHORUS TRICHLORIDE,RTECS,cardiovascular blood,suspected
+12/2/7719,PHOSPHORUS TRICHLORIDE,RTECS,gastrointestinal liver,suspected
+12/2/7719,PHOSPHORUS TRICHLORIDE,RTECS,neurotoxicity,suspected
 7720-78-7,FERROUS SULFATE,RTECS,cardiovascular blood,suspected
 7720-78-7,FERROUS SULFATE,RTECS,gastrointestinal liver,suspected
 7720-78-7,FERROUS SULFATE,RTECS,kidney,suspected
@@ -6770,9 +6770,9 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 77501-63-4,LACTOFEN,EPA-TRI,gastrointestinal liver,suspected
 77501-63-4,LACTOFEN,EPA-TRI,kidney,suspected
 77501-63-4,LACTOFEN,P65,cancer,recognized
-7758-01-2,POTASSIUM BROMATE,P65,cancer,recognized
-7758-02-3,POTASSIUM BROMIDE,RTECS,neurotoxicity,suspected
-7758-02-3,POTASSIUM BROMIDE,RTECS,skin sense,suspected
+1/2/7758,POTASSIUM BROMATE,P65,cancer,recognized
+2/3/7758,POTASSIUM BROMIDE,RTECS,neurotoxicity,suspected
+2/3/7758,POTASSIUM BROMIDE,RTECS,skin sense,suspected
 7758-09-0,"Nitrous acid, potassium salt",RTECS,cardiovascular blood,suspected
 7758-09-0,"Nitrous acid, potassium salt",RTECS,skin sense,suspected
 7758-19-2,SODIUM CHLORITE,JANK,developmental,suspected
@@ -6807,11 +6807,11 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 77732-09-3,OXADIXYL (SAN 371F),RTECS,gastrointestinal liver,suspected
 7774-29-0,MERCURIC IODIDE,RTECS,gastrointestinal liver,suspected
 7774-29-0,MERCURIC IODIDE,RTECS,respiratory,suspected
-7775-09-9,SODIUM CHLORATE,RTECS,cardiovascular blood,suspected
-7775-09-9,SODIUM CHLORATE,RTECS,neurotoxicity,suspected
-7775-09-9,SODIUM CHLORATE,RTECS,respiratory,suspected
-7775-11-3,SODIUM CHROMATE,OEHHA-CREL,respiratory,suspected
-7775-11-3,SODIUM CHROMATE,P65-MC,cancer,recognized
+9/9/7775,SODIUM CHLORATE,RTECS,cardiovascular blood,suspected
+9/9/7775,SODIUM CHLORATE,RTECS,neurotoxicity,suspected
+9/9/7775,SODIUM CHLORATE,RTECS,respiratory,suspected
+11/3/7775,SODIUM CHROMATE,OEHHA-CREL,respiratory,suspected
+11/3/7775,SODIUM CHROMATE,P65-MC,cancer,recognized
 7778-39-4,ARSENIC ACID,P65-MC,cancer,recognized
 7778-39-4,ARSENIC ACID,P65-MC,developmental,recognized
 7778-43-0,DISODIUM HYDROGEN ARSENATE,OEHHA-CREL,cardiovascular blood,suspected
@@ -6830,7 +6830,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7778-50-9,POTASSIUM DICHROMATE,RTECS,neurotoxicity,suspected
 7778-74-7,POTASSIUM PERCHLORATE,MALA,cardiovascular blood,suspected
 7779-27-3,VANCIDE TH,RTECS,gastrointestinal liver,suspected
-7780-06-5,"2-Propenoic acid, 3-phenyl-, 1-methylethyl ester",RTECS,skin sense,suspected
+6/5/7780,"2-Propenoic acid, 3-phenyl-, 1-methylethyl ester",RTECS,skin sense,suspected
 7782-41-4,FLUORINE,"AEGL, ATSDR, HAZMAP, RTECS",respiratory,suspected
 7782-41-4,FLUORINE,"HAZMAP, RTECS",skin sense,suspected
 7782-42-5,GRAPHITE,HAZMAP,respiratory,suspected
@@ -6854,13 +6854,13 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7783-00-8,SELENIOUS ACID,OEHHA-CREL,cardiovascular blood,suspected
 7783-00-8,SELENIOUS ACID,OEHHA-CREL,gastrointestinal liver,suspected
 7783-00-8,SELENIOUS ACID,OEHHA-CREL,neurotoxicity,suspected
-7783-06-4,HYDROGEN SULFIDE,"ATSDR, HAZMAP, OEHHA-AREL, OEHHA-CREL, RTECS",respiratory,suspected
-7783-06-4,HYDROGEN SULFIDE,"BENO, STAC",cardiovascular blood,suspected
-7783-06-4,HYDROGEN SULFIDE,"DAN, HAZMAP, RTECS",neurotoxicity,suspected
-7783-06-4,HYDROGEN SULFIDE,FRAZIER,reproductive,suspected
-7783-07-5,HYDROGEN SELENIDE,DAN,neurotoxicity,suspected
-7783-07-5,HYDROGEN SELENIDE,"HAZMAP, OEHHA-AREL, OEHHA-CREL",respiratory,suspected
-7783-07-5,HYDROGEN SELENIDE,OEHHA-AREL,skin sense,suspected
+6/4/7783,HYDROGEN SULFIDE,"ATSDR, HAZMAP, OEHHA-AREL, OEHHA-CREL, RTECS",respiratory,suspected
+6/4/7783,HYDROGEN SULFIDE,"BENO, STAC",cardiovascular blood,suspected
+6/4/7783,HYDROGEN SULFIDE,"DAN, HAZMAP, RTECS",neurotoxicity,suspected
+6/4/7783,HYDROGEN SULFIDE,FRAZIER,reproductive,suspected
+7/5/7783,HYDROGEN SELENIDE,DAN,neurotoxicity,suspected
+7/5/7783,HYDROGEN SELENIDE,"HAZMAP, OEHHA-AREL, OEHHA-CREL",respiratory,suspected
+7/5/7783,HYDROGEN SELENIDE,OEHHA-AREL,skin sense,suspected
 7783-20-2,AMMONIUM SULFATE,RTECS,gastrointestinal liver,suspected
 7783-20-2,AMMONIUM SULFATE,RTECS,neurotoxicity,suspected
 7783-20-2,AMMONIUM SULFATE,RTECS,respiratory,suspected
@@ -6920,17 +6920,17 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 7789-00-6,POTASSIUM CHROMATE,"EEC, SNCI",immunotoxicity,suspected
 7789-00-6,POTASSIUM CHROMATE,OEHHA-CREL,respiratory,suspected
 7789-00-6,POTASSIUM CHROMATE,P65-MC,cancer,recognized
-7789-06-2,STRONTIUM CHROMATE,HAZMAP,immunotoxicity,suspected
-7789-06-2,STRONTIUM CHROMATE,HAZMAP,kidney,suspected
-7789-06-2,STRONTIUM CHROMATE,HAZMAP,respiratory,suspected
-7789-06-2,STRONTIUM CHROMATE,HAZMAP,skin sense,suspected
-7789-06-2,STRONTIUM CHROMATE,P65-MC,cancer,recognized
-7789-09-5,AMMONIUM BICHROMATE,EEC,skin sense,suspected
-7789-09-5,AMMONIUM BICHROMATE,"EEC, SNCI",immunotoxicity,suspected
-7789-09-5,AMMONIUM BICHROMATE,P65-MC,cancer,recognized
-7789-09-5,AMMONIUM BICHROMATE,RTECS,cardiovascular blood,suspected
-7789-09-5,AMMONIUM BICHROMATE,RTECS,gastrointestinal liver,suspected
-7789-09-5,AMMONIUM BICHROMATE,RTECS,kidney,suspected
+6/2/7789,STRONTIUM CHROMATE,HAZMAP,immunotoxicity,suspected
+6/2/7789,STRONTIUM CHROMATE,HAZMAP,kidney,suspected
+6/2/7789,STRONTIUM CHROMATE,HAZMAP,respiratory,suspected
+6/2/7789,STRONTIUM CHROMATE,HAZMAP,skin sense,suspected
+6/2/7789,STRONTIUM CHROMATE,P65-MC,cancer,recognized
+9/5/7789,AMMONIUM BICHROMATE,EEC,skin sense,suspected
+9/5/7789,AMMONIUM BICHROMATE,"EEC, SNCI",immunotoxicity,suspected
+9/5/7789,AMMONIUM BICHROMATE,P65-MC,cancer,recognized
+9/5/7789,AMMONIUM BICHROMATE,RTECS,cardiovascular blood,suspected
+9/5/7789,AMMONIUM BICHROMATE,RTECS,gastrointestinal liver,suspected
+9/5/7789,AMMONIUM BICHROMATE,RTECS,kidney,suspected
 7789-30-2,BROMINE PENTAFLUORIDE,HAZMAP,respiratory,suspected
 7789-30-2,BROMINE PENTAFLUORIDE,HAZMAP,skin sense,suspected
 7789-30-2,BROMINE PENTAFLUORIDE,NJ-FS,gastrointestinal liver,suspected
@@ -7194,10 +7194,10 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 8001-58-9,CREOSOTES,P65,cancer,recognized
 8001-58-9,CREOSOTES,RTECS,neurotoxicity,suspected
 8001-58-9,CREOSOTES,SNCI,immunotoxicity,suspected
-8002-05-9,PETROLEUM DISTILLATES,HAZMAP,neurotoxicity,suspected
-8002-05-9,PETROLEUM DISTILLATES,HAZMAP,respiratory,suspected
-8002-05-9,PETROLEUM DISTILLATES,RTECS,cardiovascular blood,suspected
-8002-09-3,ACEITE DE PINO,RTECS,neurotoxicity,suspected
+5/9/8002,PETROLEUM DISTILLATES,HAZMAP,neurotoxicity,suspected
+5/9/8002,PETROLEUM DISTILLATES,HAZMAP,respiratory,suspected
+5/9/8002,PETROLEUM DISTILLATES,RTECS,cardiovascular blood,suspected
+9/3/8002,ACEITE DE PINO,RTECS,neurotoxicity,suspected
 8003-19-8,"1,3-DICHLOROPROPENE AND 1,2-DICHLOROPROPANE MIXTURE",P65-MC,cancer,recognized
 8003-19-8,"1,3-DICHLOROPROPENE AND 1,2-DICHLOROPROPANE MIXTURE",RTECS,gastrointestinal liver,suspected
 8003-19-8,"1,3-DICHLOROPROPENE AND 1,2-DICHLOROPROPANE MIXTURE",RTECS,kidney,suspected
@@ -7233,10 +7233,10 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 8012-95-1,"OIL MIST, MINERAL",HAZMAP,respiratory,suspected
 8012-95-1,"OIL MIST, MINERAL",NTP-C,cancer,suspected
 8012-95-1,"OIL MIST, MINERAL",RTECS,gastrointestinal liver,suspected
-8018-01-7,MANCOZEB,"BRUC, EPA-SDWA, IL-EPA, JNIHS, KEIT, WWF",endocrine,suspected
-8018-01-7,MANCOZEB,HAZMAP,immunotoxicity,suspected
-8018-01-7,MANCOZEB,HAZMAP,skin sense,suspected
-8018-01-7,MANCOZEB,P65,cancer,recognized
+1/7/8018,MANCOZEB,"BRUC, EPA-SDWA, IL-EPA, JNIHS, KEIT, WWF",endocrine,suspected
+1/7/8018,MANCOZEB,HAZMAP,immunotoxicity,suspected
+1/7/8018,MANCOZEB,HAZMAP,skin sense,suspected
+1/7/8018,MANCOZEB,P65,cancer,recognized
 8020-83-5,MINERAL OILS (UNTREATED AND MILDLY TREATED OILS),IARC,cancer,suspected
 8020-83-5,MINERAL OILS (UNTREATED AND MILDLY TREATED OILS),RTECS,kidney,suspected
 8020-83-5,MINERAL OILS (UNTREATED AND MILDLY TREATED OILS),RTECS,neurotoxicity,suspected
@@ -7247,9 +7247,9 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 8032-32-4,BENZINE,"HAZMAP, RTECS",neurotoxicity,suspected
 80474-14-2,FLUTICASONE PROPIONATE,P65,developmental,recognized
 80474-14-2,FLUTICASONE PROPIONATE,RTECS,cardiovascular blood,suspected
-8050-09-7,BALS 3A,HAZMAP,respiratory,suspected
-8050-09-7,BALS 3A,HAZMAP,skin sense,suspected
-8050-09-7,BALS 3A,"HAZMAP, NAP, SNCI",immunotoxicity,suspected
+9/7/8050,BALS 3A,HAZMAP,respiratory,suspected
+9/7/8050,BALS 3A,HAZMAP,skin sense,suspected
+9/7/8050,BALS 3A,"HAZMAP, NAP, SNCI",immunotoxicity,suspected
 8052-41-3,STODDARD SOLVENT,"HAZMAP, RTECS",neurotoxicity,suspected
 8052-42-4,ASPHALT (PETROLEUM) FUMES,P65,cancer,recognized
 8065-48-3,DEMETON,"DAN, DPR-CIP, MASL",neurotoxicity,suspected
@@ -7533,7 +7533,7 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 900-95-8,"STANNANE, ACETOXYTRIPHENYL",EEC,immunotoxicity,suspected
 900-95-8,"STANNANE, ACETOXYTRIPHENYL",EEC,skin sense,suspected
 900-95-8,"STANNANE, ACETOXYTRIPHENYL",RTECS,neurotoxicity,suspected
-9000-07-1,"Carrageenan, degraded",IARC,cancer,suspected
+7/1/9000,"Carrageenan, degraded",IARC,cancer,suspected
 9000-65-1,Tragacanth,HAZMAP,respiratory,suspected
 9000-71-9,CASEIN,HAZMAP,respiratory,suspected
 9002-68-0,MENOTROPINS,P65,developmental,recognized
@@ -7542,12 +7542,12 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 9002-89-5,ALCOTEX 17F-H,RTECS,gastrointestinal liver,suspected
 9002-89-5,ALCOTEX 17F-H,RTECS,neurotoxicity,suspected
 9002-93-1,OCTYLPHENOXYPOLYETHOXYETHANOL,JNIHS,endocrine,suspected
-9003-05-8,POLYACRYLAMIDE,RTECS,neurotoxicity,suspected
-9003-05-8,POLYACRYLAMIDE,RTECS,respiratory,suspected
+5/8/9003,POLYACRYLAMIDE,RTECS,neurotoxicity,suspected
+5/8/9003,POLYACRYLAMIDE,RTECS,respiratory,suspected
 9003-07-0,POLYPROPYLENE,DIPA,gastrointestinal liver,suspected
 9003-07-0,POLYPROPYLENE,HAZMAP,respiratory,suspected
-9003-11-6,POLOXANLENE,RTECS,gastrointestinal liver,suspected
-9003-11-6,POLOXANLENE,RTECS,neurotoxicity,suspected
+11/6/9003,POLOXANLENE,RTECS,gastrointestinal liver,suspected
+11/6/9003,POLOXANLENE,RTECS,neurotoxicity,suspected
 9003-35-4,"FORMALDEHYDE, PHENOL POLYMER",HAZMAP,skin sense,suspected
 9003-35-4,"FORMALDEHYDE, PHENOL POLYMER","HAZMAP, NAP",immunotoxicity,suspected
 9003-39-8,POLYVINYL PYRROLIDONE,RTECS,gastrointestinal liver,suspected
@@ -7561,9 +7561,9 @@ tox_cas_edf_id,tox_chemical_name,tox_references,tox_toxicity,tox_category
 9006-42-2,METIRAM,"EPA-SDWA, IL-EPA, JNIHS, KEIT",endocrine,suspected
 9006-42-2,METIRAM,P65,cancer,recognized
 9006-42-2,METIRAM,P65,developmental,recognized
-9011-05-6,ACRISIN FS 017,HAZMAP,respiratory,suspected
-9011-05-6,ACRISIN FS 017,HAZMAP,skin sense,suspected
-9011-05-6,ACRISIN FS 017,"HAZMAP, NAP",immunotoxicity,suspected
+5/6/9011,ACRISIN FS 017,HAZMAP,respiratory,suspected
+5/6/9011,ACRISIN FS 017,HAZMAP,skin sense,suspected
+5/6/9011,ACRISIN FS 017,"HAZMAP, NAP",immunotoxicity,suspected
 9016-45-9,2-(2-(2-(2-(NONYLPHENOXY)ETHOXY)ETHOXY)ETHOXY)ETHANOL,JNIHS,endocrine,suspected
 9016-87-9,POLYMERIC MDI,"EPA-TRI, HAZMAP",respiratory,suspected
 9036-19-5,OCTYLPHENOXY POLYETHOXYETHANOL,JNIHS,endocrine,suspected
