@@ -42,9 +42,9 @@ Each row in this dataset contains information about a single chemical used in th
 # Code
 Files are available in code folder in this repository. Files are separated by task.
 - data_processing.ipynb
-	This is a Jupyter Notebook wherein I concatenated all 14 FracFocus registry csv files. I then selected only the columns which were relevant to my analysis and exported the trimmed table as a csv.
+	- This is a Jupyter Notebook wherein I concatenated all 14 FracFocus registry csv files. I then selected only the columns which were relevant to my analysis and exported the trimmed table as a csv.
 - water_tidying.ipynb
-	This is a Jupyter Notebook wherein I tidied the data in waterSource.csv to be more readily analyzed and synthesized with other datasets.
+	- This is a Jupyter Notebook wherein I tidied the data in waterSource.csv to be more readily analyzed and synthesized with other datasets.
 - registry_analysis.ipynb
 	- This is the Jupyter Notebook file where I conducted all my data exploration and analysis.
 - visualizations.R
