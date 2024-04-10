@@ -4,7 +4,7 @@ Home for data, code, and other information related to my DA senior capstone proj
 # Introduction
 
 ## description:
-This project aims to investigate commonalities between characteristics of natural gas fracking wells in the United States. Data was acquired from FracFocus.org.
+This project aims to investigate regional similarities between between characteristics of natural gas fracking wells in the United States. Data was acquired from FracFocus.org.
 
 ## author: Phoebe Martin
 ### affiliation: Denison University Class of 2024
@@ -14,9 +14,8 @@ This project aims to investigate commonalities between characteristics of natura
 This is a descriptive analysis project to uncover any patterns in characteristics of wells that have disclosed to the FracFocus database.
 
 # Data
-This project uses data from a few different sources:
-- <b>FracFocus Disclosures Registry</b>
-Each row in this dataset contains information about a single chemical used in the hydraulic fracturing fluid at a given well. Because of this, single wells in a single year may have more than one row associated with it.
+- <b>FracFocus Disclosures Registry</b>: 
+Each row in this dataset contains information about a single chemical used in the hydraulic fracturing fluid at a given well. This data set is not included in this repository due to its very large size.
 	Key variables:
 	- DisclosureId (original): the unique identifier number 
 	- jobYear (derived): the year in which the job being disclosed about took place
@@ -34,20 +33,30 @@ Each row in this dataset contains information about a single chemical used in th
 	- Purpose (original): reported purpose of ingredient in fluid additive mixture
 	- PercentHFJob (original): percentage (by mass) of ingredient in fluid additive mixture
 	- MassIngredient (original): mass in pounds of ingredient used in job
+	- region (derived): division of United States in which well is located, based on divisions defined by the U.S. Census Bureau. Derived from state column
+	- purpCat (derived): major category of additive purpose, derived manually from purpose column according to researcher's discretion.
+- <b>Purpose Categorization Reference Tool (purpp.csv)</b>
+	- current: unique values in Purpose column, lowercased and with whitespace removed
+	- replaceWith: category of additive purpose, used to create purpCat column in registry data set.
 
 # Code
-Files are available in code folder in this repository. Files are separated by task. (WIP) at the end of the file name indicates that the task addressed in that file is still in progress.
-- data_processing.ipynb (WIP)
+Files are available in code folder in this repository. Files are separated by task.
+- data_processing.ipynb
 	This is a Jupyter Notebook wherein I concatenated all 14 FracFocus registry csv files. I then selected only the columns which were relevant to my analysis and exported the trimmed table as a csv.
-- water_tidying.ipynb (WIP)
+- water_tidying.ipynb
 	This is a Jupyter Notebook wherein I tidied the data in waterSource.csv to be more readily analyzed and synthesized with other datasets.
+- registry_analysis.ipynb
+	- This is the Jupyter Notebook file where I conducted all my data exploration and analysis.
+- visualizations.R
+	- This is the R file where I made the majority of my visualizations including all the visualizations featured in the final paper.
 
 # Software:
 Software used for analysis:
 - Python 3.0
-- Jupyter Lab for coding, analysis, visualization
+- VSCode for coding, analysis, visualization
 Packages required to run code:
-- pandas, numpy, scikit-learn, seaborn, matplotlib
+- Python: pandas, numpy, matplotlib, scipy, pandasql, statsmodels
+- R: ggplot2, tidyr, scales
 
 # Workflow
 1. Open GitHub desktop.
