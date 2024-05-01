@@ -1,7 +1,7 @@
 library(ggplot2)
 library(tidyr)
 library(scales)
-library(tidyverse)
+library(dplyr)
 
 setwd("~/GitHub/fracking-research")
 
@@ -69,14 +69,14 @@ massIng     <- numColsDF %>% slice(6)
 
 jobYearPlot <- ggplot(jobYear, aes(x = X, ymin = min, lower = Q1, middle = median, upper = Q3, ymax = max)) +
   geom_boxplot(stat = "identity") +
-  geom_text(aes(x = X, y = mean), label = "_______", color = "green") +
+  geom_text(aes(x = X, y = mean), label = "__________", color = "green") +
   labs(x = "", y = "year") +
   theme_minimal()
 jobYearPlot
   
 depthPlot <- ggplot(depth, aes(x = X, ymin = min, lower = Q1, middle = median, upper = Q3, ymax = max)) +
   geom_boxplot(stat = "identity") +
-  geom_text(aes(x = X, y = mean), label = "_______", color = "green") +
+  geom_text(aes(x = X, y = mean), label = "__________", color = "green") +
   labs(x = "", y = "") +
   scale_y_continuous(trans = "log10") +
   theme_minimal()
@@ -84,7 +84,7 @@ depthPlot
 
 waterVolPlot <- ggplot(waterVol, aes(x = X, ymin = min, lower = Q1, middle = median, upper = Q3, ymax = max)) +
   geom_boxplot(stat = "identity") +
-  geom_text(aes(x = X, y = mean), label = "_______", color = "green") +
+  geom_text(aes(x = X, y = mean), label = "__________", color = "green") +
   labs(x = "", y = "gallons") +
   scale_y_continuous(trans = "log10") +
   theme_minimal()
@@ -93,23 +93,30 @@ waterVolPlot
 nonWaterVolPlot <- ggplot(nonWaterVol, aes(x = X, ymin = min, lower = Q1, middle = median, upper = Q3, ymax = max)) +
   geom_boxplot(stat = "identity") +
   labs(x = "", y = "gallons") +
-  geom_text(aes(x = X, y = mean), label = "______", color = "green") +
+  geom_text(aes(x = X, y = mean), label = "__________", color = "green") +
   theme_minimal()
 nonWaterVolPlot
 
 percentPlot <- ggplot(percentHF, aes(x = X, ymin = min, lower = Q1, middle = median, upper = Q3, ymax = max)) +
   geom_boxplot(stat = "identity") +
   labs(x = "", y = "") +
-  geom_text(aes(x = X, y = mean), label = "______", color = "green") +
+  geom_text(aes(x = X, y = mean), label = "__________", color = "green") +
   scale_y_continuous(trans = "log10", labels = label_number()) +
   theme_minimal()
 percentPlot
 
 massPlot <- ggplot(massIng, aes(x = X, ymin = min, lower = Q1, middle = median, upper = Q3, ymax = max)) +
   geom_boxplot(stat = "identity") +
-  geom_text(aes(x = X, y = mean), label = "_______", color = "green") +
+  geom_text(aes(x = X, y = mean), label = "__________", color = "green") +
   labs(x = "", y = "lbs") +
   scale_y_continuous(trans = "log10") +
   theme_minimal()
 massPlot
 
+# save all plots at high resolution
+ggsave(filename = "jbYrBig.jpg", plot = jobYearPlot, width = 560, height = 1000, units = "px", dpi = 320)
+ggsave(filename = "depthBig.jpg", plot = depthPlot, width = 560, height = 1000, units = "px", dpi = 320)
+ggsave(filename = "waterVolBig.jpg", plot = waterVolPlot, width = 560, height = 1000, units = "px", dpi = 320)
+ggsave(filename = "nonWaterVolBig.jpg", plot = nonWaterVolPlot, width = 560, height = 1000, units = "px", dpi = 320)
+ggsave(filename = "pcntBig.jpg", plot = percentPlot, width = 560, height = 1000, units = "px", dpi = 320)
+ggsave(filename = "massIngBig.jpg", plot = massPlot, width = 560, height = 1000, units = "px", dpi = 320)

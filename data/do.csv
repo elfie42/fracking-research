@@ -1,0 +1,46 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Anadarko Petroleum Corporation,Apache Corporation,-230.2062,1,-1683.1855,1222.7732,FALSE
+Anadarko Petroleum Corporation,"Chesapeake Operating, Inc.",-542.38,0.9327,-1783.2137,698.4537,FALSE
+Anadarko Petroleum Corporation,ConocoPhillips Company/Burlington Resources,1505.5161,0.0339,57.3014,2953.7307,TRUE
+Anadarko Petroleum Corporation,Devon Energy Production Company L. P.,-10.9033,1,-1369.6114,1347.8048,FALSE
+Anadarko Petroleum Corporation,"EOG Resources, Inc.",1507.0543,0.0012,369.2598,2644.8488,TRUE
+Anadarko Petroleum Corporation,Marathon Oil,1869.5442,0.0011,460.5774,3278.511,TRUE
+Anadarko Petroleum Corporation,Occidental Oil and Gas,29.6779,1,-1355.493,1414.8488,FALSE
+Anadarko Petroleum Corporation,Pioneer Natural Resources,405.2826,0.9923,-875.4622,1686.0275,FALSE
+Anadarko Petroleum Corporation,XTO Energy/ExxonMobil,149.5171,1,-1079.529,1378.5632,FALSE
+Apache Corporation,"Chesapeake Operating, Inc.",-312.1738,0.9997,-1785.0074,1160.6597,FALSE
+Apache Corporation,ConocoPhillips Company/Burlington Resources,1735.7222,0.0302,84.3907,3387.0538,TRUE
+Apache Corporation,Devon Energy Production Company L. P.,219.3029,1,-1354.1195,1792.7252,FALSE
+Apache Corporation,"EOG Resources, Inc.",1737.2605,0.003,350.1243,3124.3966,TRUE
+Apache Corporation,Marathon Oil,2099.7503,0.0016,482.7291,3716.7716,TRUE
+Apache Corporation,Occidental Oil and Gas,259.8841,1,-1336.4457,1856.2138,FALSE
+Apache Corporation,Pioneer Natural Resources,635.4888,0.9458,-871.1225,2142.1001,FALSE
+Apache Corporation,XTO Energy/ExxonMobil,379.7233,0.9983,-1083.1932,1842.6398,FALSE
+"Chesapeake Operating, Inc.",ConocoPhillips Company/Burlington Resources,2047.8961,0.0004,579.7628,3516.0293,TRUE
+"Chesapeake Operating, Inc.",Devon Energy Production Company L. P.,531.4767,0.9696,-848.4426,1911.396,FALSE
+"Chesapeake Operating, Inc.","EOG Resources, Inc.",2049.4343,0,886.3926,3212.476,TRUE
+"Chesapeake Operating, Inc.",Marathon Oil,2411.9242,0,982.4917,3841.3566,TRUE
+"Chesapeake Operating, Inc.",Occidental Oil and Gas,572.0579,0.9567,-833.9251,1978.0408,FALSE
+"Chesapeake Operating, Inc.",Pioneer Natural Resources,947.6626,0.3884,-355.563,2250.8883,FALSE
+"Chesapeake Operating, Inc.",XTO Energy/ExxonMobil,691.8971,0.7679,-560.5581,1944.3523,FALSE
+ConocoPhillips Company/Burlington Resources,Devon Energy Production Company L. P.,-1516.4194,0.0683,-3085.4428,52.6041,FALSE
+ConocoPhillips Company/Burlington Resources,"EOG Resources, Inc.",1.5382,1,-1380.6062,1383.6827,FALSE
+ConocoPhillips Company/Burlington Resources,Marathon Oil,364.0281,0.9994,-1248.7131,1976.7694,FALSE
+ConocoPhillips Company/Burlington Resources,Occidental Oil and Gas,-1475.8382,0.0966,-3067.8323,116.156,FALSE
+ConocoPhillips Company/Burlington Resources,Pioneer Natural Resources,-1100.2334,0.3774,-2602.2502,401.7833,FALSE
+ConocoPhillips Company/Burlington Resources,XTO Energy/ExxonMobil,-1355.999,0.0942,-2814.1832,102.1853,FALSE
+Devon Energy Production Company L. P.,"EOG Resources, Inc.",1517.9576,0.0074,229.9027,2806.0125,TRUE
+Devon Energy Production Company L. P.,Marathon Oil,1880.4475,0.0041,347.5755,3413.3194,TRUE
+Devon Energy Production Company L. P.,Occidental Oil and Gas,40.5812,1,-1470.4474,1551.6098,FALSE
+Devon Energy Production Company L. P.,Pioneer Natural Resources,416.1859,0.9955,-999.7295,1832.1013,FALSE
+Devon Energy Production Company L. P.,XTO Energy/ExxonMobil,160.4204,1,-1208.9091,1529.7499,FALSE
+"EOG Resources, Inc.",Marathon Oil,362.4899,0.9976,-978.4744,1703.4542,FALSE
+"EOG Resources, Inc.",Occidental Oil and Gas,-1477.3764,0.014,-2793.3157,-161.4371,TRUE
+"EOG Resources, Inc.",Pioneer Natural Resources,-1101.7717,0.1078,-2307.3027,103.7594,FALSE
+"EOG Resources, Inc.",XTO Energy/ExxonMobil,-1357.5372,0.0073,-2507.9945,-207.0798,TRUE
+Marathon Oil,Occidental Oil and Gas,-1839.8663,0.0071,-3396.2426,-283.49,TRUE
+Marathon Oil,Pioneer Natural Resources,-1464.2615,0.05,-2928.4733,-0.0497,TRUE
+Marathon Oil,XTO Energy/ExxonMobil,-1720.0271,0.0049,-3139.2392,-300.8149,TRUE
+Occidental Oil and Gas,Pioneer Natural Resources,375.6047,0.9982,-1065.7235,1816.933,FALSE
+Occidental Oil and Gas,XTO Energy/ExxonMobil,119.8392,1,-1275.7518,1515.4302,FALSE
+Pioneer Natural Resources,XTO Energy/ExxonMobil,-255.7655,0.9998,-1547.773,1036.2419,FALSE
