@@ -15,7 +15,7 @@ This is a descriptive analysis project to uncover any patterns in characteristic
 
 # Data
 - <b>FracFocus Disclosures Registry</b>: 
-Each row in this dataset contains information about a single chemical used in the hydraulic fracturing fluid at a given well. This data set is not included in this repository due to its very large size.
+Each row in this dataset contains information about a single chemical used in the hydraulic fracturing fluid at a given well. This data set is not included in this repository due to its very large size. For the exact file I worked with, contact me at the above email or download the file from FracFocus.org.
 	Key variables:
 	- DisclosureId (original): the unique identifier number 
 	- jobYear (derived): the year in which the job being disclosed about took place
